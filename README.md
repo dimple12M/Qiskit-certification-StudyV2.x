@@ -1,7 +1,8 @@
-# <u>Study lessons: Part of Qiskit Study Group</u> : Qiskit-certification-Study V2.x
+# <u>Study lessons: Part of Qiskit Study Group</u> 
+
+## Qiskit-certification-Study V2.x
 
 REFERENCE: https://www.ibm.com/training/certification/ibm-certified-quantum-computation-using-qiskit-v2x-developer-associate-C9008400
-
 
 
 **Week-1 :  Performing quantum operations**
@@ -20,3 +21,9 @@ REFERENCE: https://www.ibm.com/training/certification/ibm-certified-quantum-comp
 2. Construct parameterized circuits
 3. Transpile and optimize circuits
 4. Construct basic quantum circuits
+
+**Week-4: Run quantum circuits**
+
+1. Execution modes
+2. Execution on real hardware
+3. Primitives Introduction
