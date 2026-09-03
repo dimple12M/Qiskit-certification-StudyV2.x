@@ -1,8 +1,8 @@
-# Qiskit-certification-Study V2.x
+# <u>Study lessons: Part of Qiskit Study Group</u> : Qiskit-certification-Study V2.x
 
 REFERENCE: https://www.ibm.com/training/certification/ibm-certified-quantum-computation-using-qiskit-v2x-developer-associate-C9008400
 
-<u>Study lessons: Part of Qiskit Study Group</u>
+
 
 **Week-1 :  Performing quantum operations**
 1. Pauli gates
