@@ -2,7 +2,9 @@ This section contains :
 
 > **Perform Quantum Operations **
 
+--- 
 <h4>
+  
 - **Define Pauli Operators**
 
   -  SparsePauliOp
