@@ -4,7 +4,11 @@ This section contains :
 
 ---
 <h4>
+      
 - **Visualize quantum circuits**
+
+      - draw 
+      - circuit_drawer
 
 - **Visualize quantum measurements**
 
