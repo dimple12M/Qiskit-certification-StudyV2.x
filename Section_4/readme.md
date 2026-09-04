@@ -1,6 +1,6 @@
 This section contains : 
 
-**Run quantum circuits**
+> **Run quantum circuits**
 
 ---
 <h4>
@@ -11,7 +11,9 @@ This section contains :
       - batch
       - session
 
-- Execution on real hardware
+- **Execution on real hardware**
+
+      - Qiskit Runtime Service implementation
 
 - **Get Started with Primitives**
 
