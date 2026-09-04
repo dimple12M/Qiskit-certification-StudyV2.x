@@ -1,10 +1,12 @@
 This section contains : 
 
-> **Run quantum circuits**
+**Run quantum circuits**
 
 ---
 <h4>
+      
 - **Execution modes**
+  
       - job
       - batch
       - session
