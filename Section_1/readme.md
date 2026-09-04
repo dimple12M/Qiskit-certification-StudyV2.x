@@ -6,12 +6,10 @@ This section contains :
 <h4>
   
 - **Define Pauli Operators**
-
   -  SparsePauliOp
   -  Pauli
 
 - **Apply quantum operators**
-
   - Pauli objects
   - Gate and Instruction objects
   - QuantumCircuit objects
