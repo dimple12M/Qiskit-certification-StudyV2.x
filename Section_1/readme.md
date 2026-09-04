@@ -1,22 +1,22 @@
 This section contains : 
 
-> **Perform Quantum Operations **
+> **Perform Quantum Operations**
 
 <h4>
   
 --- 
 - **Define Pauli Operators**
   
-    -  SparsePauliOp
-    -  Pauli
+      -  SparsePauliOp
+      -  Pauli
 
 - **Apply quantum operators**
   
-    - Pauli objects
-    - Gate and Instruction objects
-    - QuantumCircuit objects
-    - Compare Operators
-    - ScalarOp 
+      - Pauli objects
+      - Gate and Instruction objects
+      - QuantumCircuit objects
+      - Compare Operators
+      - ScalarOp 
     
 ---
 
