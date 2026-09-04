@@ -4,13 +4,14 @@ This section contains :
 
 ---
 <h4>
-- Construct basic quantum circuits 
-
-- Construct dynamic circuits
-
-- Construct parameterized circuits
-
-- Transpile and optimize circuits
+  
+    - Construct basic quantum circuits 
+    
+    - Construct dynamic circuits
+    
+    - Construct parameterized circuits
+    
+    - Transpile and optimize circuits
 
 ---
 **Standard Quantum gates:**
